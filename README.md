@@ -1,2 +1,3 @@
 # Digital Image Processing
- Digital Image Processing Notes
+
+Fundamentals of Digital Image Processing Notes
